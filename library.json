@@ -1,8 +1,8 @@
 {
-"name": "gb_SENSORNAME",
+"name": "gb_SEN0114_AnalogSoilMoistureSensor",
 "frameworks": "Arduino",
 "keywords": "keywords",
-"description": "Use the sensor XXXXX in the GrowBot system.",
+"description": "Use the sensor SEN0114 AnalogSoilMoistureSensor in the GrowBot system.",
 "authors":
 [
     {
