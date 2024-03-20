@@ -1,5 +1,5 @@
-#ifndef gb_SEN0114_AnalogSoilMoistureSensor.h
-#define gb_SEN0114_AnalogSoilMoistureSensor.h
+#ifndef gb_SEN0114_AnalogSoilMoistureSensor_h
+#define gb_SEN0114_AnalogSoilMoistureSensor_h
 
 #include <Arduino.h>
 
